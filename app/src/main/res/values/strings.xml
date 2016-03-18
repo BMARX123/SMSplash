@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMSplash</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1720299487462258/7411511129</string>
+</resources>
